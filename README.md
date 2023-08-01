@@ -22,6 +22,9 @@ SuperMEZ80より小さい基板上で64Kバイト CP/M 2.2が動作します。<
 ２．PIC18F47Q84用のファームウェア<br>
 ３．CP/M用のディスクイメージ<br>
 <br>
+基板に1番ピンのシルクを忘れたので、印を付けた画像を張り付けておきます。<br>
+![MEZ80SPI_NOEX](https://github.com/akih-san/MEZ80SPI_NOEX/blob/main/MEZ80SPI_NOEX.png)
+
 ファームウェア、CP/M用ディスクイメージの詳細については、<br>
 Hanya Zou(@hanyazou)さんの公開データを参照してください。<br>
 <br>
