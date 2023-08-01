@@ -1,3 +1,12 @@
+# MEZ80SPI_NOEX<br>
+<br>
+![MEZ80SPI_NOEX+SD] (https://github.com/akih-san/MEZ80SPI_NOEX/blob/main/Photos/P1020307.JPG)<br>
+EMUZ80にMEZ80SPI_NOEXを装着<br>
+<br>
+![MEZ80SPI_NOEX+SD1] (https://github.com/akih-san/MEZ80SPI_NOEX/blob/main/Photos/P1020305.JPG)<br>
+さらに、μSDカードを装着<br>
+<br>
+<br>
 EMUZ80は、電脳伝説さん(@vintagechips)によって公開された最小構成で動くレトロな<br>
 シングルボードコンピュータです。<br>
 <br>
