@@ -1,8 +1,11 @@
 # MEZ80SPI_NOEX
+![MEZ80SPI_NOEX_1](https://github.com/akih-san/MEZ80SPI_NOEX/blob/main/Photos/P1020304.JPG)
+MEZ80SPI_NOEX本体<br>
+<br>
 ![MEZ80SPI_NOEX_1](https://github.com/akih-san/MEZ80SPI_NOEX/blob/main/Photos/P1020307.JPG)
 EMUZ80にMEZ80SPI_NOEXを装着<br>
 <br>
-![MEZ80SPI_NOEX_2](https://github.com/akih-san/MEZ80SPI_NOEX/blob/main/Photos/P1020305.JPG)<br>
+![MEZ80SPI_NOEX_2](https://github.com/akih-san/MEZ80SPI_NOEX/blob/main/Photos/P1020305.JPG)
 さらに、μSDカードを装着<br>
 <br>
 <br>
