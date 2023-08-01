@@ -1,8 +1,8 @@
 # MEZ80SPI_NOEX
-![MEZ80SPI_NOEX+SD] (https://github.com/akih-san/MEZ80SPI_NOEX/blob/main/Photos/P1020307.JPG)
+![MEZ80SPI_NOEX_1] (https://github.com/akih-san/MEZ80SPI_NOEX/blob/main/Photos/P1020307.JPG)
 EMUZ80にMEZ80SPI_NOEXを装着<br>
 <br>
-![MEZ80SPI_NOEX+SD1] (https://github.com/akih-san/MEZ80SPI_NOEX/blob/main/Photos/P1020305.JPG)<br>
+![MEZ80SPI_NOEX_2] (https://github.com/akih-san/MEZ80SPI_NOEX/blob/main/Photos/P1020305.JPG)<br>
 さらに、μSDカードを装着<br>
 <br>
 <br>
@@ -31,7 +31,7 @@ SuperMEZ80より小さい基板上で64Kバイト CP/M 2.2が動作します。<
 ３．CP/M用のディスクイメージ<br>
 <br>
 基板に1番ピンのシルクを忘れたので、印を付けた画像を張り付けておきます。<br>
-![MEZ80SPI_NOEX](https://github.com/akih-san/MEZ80SPI_NOEX/blob/main/MEZ80SPI_NOEX.png)
+![MEZ80SPI_NOEX_3](https://github.com/akih-san/MEZ80SPI_NOEX/blob/main/MEZ80SPI_NOEX.png)
 
 ファームウェア、CP/M用ディスクイメージの詳細については、<br>
 Hanya Zou(@hanyazou)さんの公開データを参照してください。<br>
